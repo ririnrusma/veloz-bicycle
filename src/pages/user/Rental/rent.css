@@ -299,6 +299,12 @@ body{
   font-family: 'Inter', sans-serif;
 }
 
+.qr-code-title {
+  position: absolute;
+  left: 60px;
+  top: 300px;
+}
+
 .back-button {
   width: 72px;
   height: 32px;
